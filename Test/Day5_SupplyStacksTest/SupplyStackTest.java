@@ -1,8 +1,6 @@
-package Day5SupplyStacksTest;
+package Day5_SupplyStacksTest;
 
-import Day5SupplyStacks.Main;
-import Day5SupplyStacks.Step;
-import Day5SupplyStacks.SupplyStack;
+import Day5_SupplyStacks.SupplyStack;
 import org.junit.Test;
 
 import java.nio.file.Path;
@@ -32,7 +30,7 @@ public class SupplyStackTest {
 
     SupplyStack s1 = new SupplyStack(input,steps);
 
-    Path p = Paths.get("Test/Day5SupplyStacksTest/Temp");
+    Path p = Paths.get("Test/Day5_SupplyStacksTest/Temp");
 
     @Test
     public void readFromFileTest(){

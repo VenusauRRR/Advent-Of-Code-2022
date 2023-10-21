@@ -1,6 +1,6 @@
-package Day5SupplyStacksTest;
+package Day5_SupplyStacksTest;
 
-import Day5SupplyStacks.Step;
+import Day5_SupplyStacks.Step;
 import org.junit.Test;
 
 import static junit.framework.TestCase.assertTrue;

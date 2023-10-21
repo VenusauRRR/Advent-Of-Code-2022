@@ -1,4 +1,4 @@
-package Day5SupplyStacks;
+package Day5_SupplyStacks;
 public class Step {
 
     protected int movingCrateAmt;

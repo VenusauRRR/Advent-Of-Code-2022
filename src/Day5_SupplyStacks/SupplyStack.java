@@ -1,4 +1,4 @@
-package Day5SupplyStacks;
+package Day5_SupplyStacks;
 
 import java.io.BufferedReader;
 import java.io.IOException;
